@@ -1,0 +1,12 @@
+body{
+  font-size: 24px;
+  line-height: 1.5;
+}
+.container{
+  width: 1240px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+p{
+  color: red;
+}
